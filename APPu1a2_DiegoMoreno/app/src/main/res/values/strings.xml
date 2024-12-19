@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">APPu1a2_DiegoMoreno</string>
+    <string name="introduccion">Esta aplicación se utilizará para realizar click en los botones de las encuestas, obtener sus valores guardados y con el switch ir mostrando en la pantalla principal los resultados de la Encuesta 1 y Encuesta 2</string>
+    <string name="encuesta1">Encuesta 1</string>
+    <string name="encuesta2">Encuesta 2</string>
+    <string name="placeholder">Ejemplo 10</string>
+    <string name="calcular">Calcular</string>
+    <string name="tamannoMatriz">Tamaño de la matriz</string>
+    <string name="titleActivityEncuesta2">Encuesta2Activity</string>
+    <string name="title_activity_encuesta1">Encuesta1Activity</string>
+    <string name="title_activity_encuesta2">Encuesta2Activity</string>
+    <string name="title_activity_matriz">Matriz</string>
+    <string name="error">No hay opción seleccionada</string>
+    <string name="radio1">Acceso a datos</string>
+    <string name="radio2" translatable="false">Desarrollo de interfaces</string>
+    <string name="radio3">Programación Multimedia</string>
+    <string name="radio4">Programación de servicios y procesos</string>
+    <string name="radio5">Sistemas de Gestión Empresarial</string>
+    <string name="radio6">Empresas</string>
+    <string name="radioPregunta">Selecciona tu asignatura favorita:</string>
+    <string name="enviar">Enviar</string>
+    <string name="opcionSeleccionada">Opción seleccionada:</string>
+    <string name="check1">Español</string>
+    <string name="check2">Inglés</string>
+    <string name="check3">Francés</string>
+    <string name="check4">Italiano</string>
+    <string name="check5">Portugués</string>
+    <string name="checkPregunta">¿Qué idiomas sabes?</string>
+    <string name="checkSeleccionado">Idiomas seleccionados:</string>
+    <string name="ninguno">Ninguno</string>
+    <string name="esperandoMatriz">Generando matriz...</string>
+    <string name="matrizGenerada2">generada con éxito</string>
+    <string name="matrizGenerada1">Matriz de</string>
+</resources>

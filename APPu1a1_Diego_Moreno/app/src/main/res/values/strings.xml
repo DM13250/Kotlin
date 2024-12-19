@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">APPu1a1_Diego_Moreno</string>
+    <string name="title_activity_resultado_final">ResultadoFinal</string>
+    <string name="num1">Número 1</string>
+    <string name="titulo">Calculadora de Mínimo Común Múltiplo</string>
+    <string name="texto1">Ingresa dos números para calcular su MCM.</string>
+    <string name="num2">Número 2</string>
+    <string name="mensajeError1">Ingrese un número válido.</string>
+    <string name="atras">Atrás</string>
+    <string name="calcular">Calcular</string>
+    <string name="mcm1">El m.c.m de</string>
+    <string name="mcm2">y</string>
+    <string name="mcm3">es:</string>
+</resources>
